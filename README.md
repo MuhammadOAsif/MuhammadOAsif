@@ -11,9 +11,9 @@
 
 
 I am Asif from Bangladesh, and I deal with development issues. I really enjoy working on languages and frameworks like React, TypeScript, and JavaScript, as well as HTML, CSS, BOOTSTRAP, TAILWIND, DAISYUI, and MongoDB. You can Check out my 
-Twitter at https://twitter.com/MuhammadOAsif 
-or 
-LinkedIn https://www.linkedin.com/in/muhammadoasif/
+### Twitter at https://twitter.com/MuhammadOAsif 
+### or 
+### LinkedIn https://www.linkedin.com/in/muhammadoasif/
 
 Skills: REACT / JS /Node JS/Type Script/Mongo DB/ HTML / CSS
 

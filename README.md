@@ -1,6 +1,6 @@
 [![Development ](https://i.ibb.co/4MWkPWS/React-Development.png)](https://github.com/MuhammadOAsif/MuhammadOAsif/blob/main/_React%20Development.png)
 
-#👋, I'm Muhammad Asif
+# I'm Muhammad Asif
 
 ## Skills and Experience 
 

@@ -5,10 +5,16 @@
 
 ## Skills and Experience 
 
-* ⚛ React
-* 🖥 HTML, CSS, JS
-* 💻 ECMA, Type Script
-* 🍃 MongoDB, Node
+
+* 🖥 HTML & CSS
+* 
+* ⚛ React && React Native.
+* 
+* 💻 JS, ES6, NodeJS, NextJS, Type Script
+* 
+* 🍃 MongoDB, MySQL, 
+* 
+* GitHub
 
 I am Asif from Bangladesh, and I deal with development issues. I really enjoy working on languages and frameworks like React, TypeScript, and JavaScript, as well as HTML, CSS, BOOTSTRAP, TAILWIND, DAISYUI, and MongoDB. You can Check out my 
 * Twitter at https://twitter.com/MuhammadOAsif 

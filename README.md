@@ -16,7 +16,7 @@
 * 
 * GitHub
 
-I am Asif from Bangladesh, and I deal with development issues. I really enjoy working on languages and frameworks like React, TypeScript, and JavaScript, as well as HTML, CSS, BOOTSTRAP, TAILWIND, DAISYUI, and MongoDB. You can Check out my 
+I am Asif from Bangladesh, and I deal with development issues. I really enjoy working on languages and frameworks like React & React Native, Java Script, Ecma Script, NodeJS, NextJS, Type Script, as well as HTML, CSS, BOOTSTRAP, TAILWIND, DAISYUI, and MongoDB & MySQL. You can Check out my 
 * Twitter at https://twitter.com/MuhammadOAsif 
 * or 
 * LinkedIn https://www.linkedin.com/in/muhammadoasif/
